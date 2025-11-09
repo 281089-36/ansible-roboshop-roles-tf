@@ -1,1 +1,1 @@
-MONGODB_HOST: "mongodb.thulasi.fun"
+MONGODB_HOST: "mongodb-{{ env }}.thulasi.fun"
