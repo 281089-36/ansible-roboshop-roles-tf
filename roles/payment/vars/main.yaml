@@ -1,0 +1,5 @@
+CART_HOST: cart.thulasi.fun
+USER_HOST: user.thulasi.fun
+RABBITMQ_HOST: rabbitmq.thulasi.fun
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
