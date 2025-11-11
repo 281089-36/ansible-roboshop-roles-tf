@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.thulasi.fun
-REDIS_HOST: redis.thulasi.fun
+CATALOGUE_HOST: catalogue.backend-{{ env }}.thulasi.fun
+REDIS_HOST: redis-{{ env }}.thulasi.fun

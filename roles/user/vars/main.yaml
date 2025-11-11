@@ -1,2 +1,2 @@
-REDIS_HOST: redis.thulasi.fun
-MONGODB_HOST: mongodb.thulasi.fun
+REDIS_HOST: redis-{{ env }}.thulasi.fun
+MONGODB_HOST: mongodb-{{ env }}.thulasi.fun
