@@ -1,3 +1,5 @@
-CATALOGUE_HOST: catalogue.thulasi.fun
-USER_HOST: user.thulasi.fun
-CART_HOST: cart.thulasi.fun
+CATALOGUE_HOST: catalogue.backend-{{ env }}.thulasi.fun
+USER_HOST: user.backend-{{ env }}.thulasi.fun
+CART_HOST: cart.backend-{{ env }}.thulasi.fun
+SHIPPING_HOST: shipping.backend-{{ env }}.thulasi.fun
+PAYMENT_HOST: payment.backend-{{ env }}.thulasi.fun
